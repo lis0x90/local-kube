@@ -1,0 +1,5 @@
+.kube
+.vagrant
+kube-init.log
+/istio/
+/registry/
